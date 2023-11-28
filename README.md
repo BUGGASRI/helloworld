@@ -1,1 +1,4 @@
 # helloworld
+#IAMBUGGA!
+#LOVElearning 
+#holygrail
